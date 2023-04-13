@@ -1,0 +1,1 @@
+I created these scripts to streamline sorting an excel sheet containing names, comparing those names to a master list of names, and them creating an email containing the new names that don't appear in the master list.
